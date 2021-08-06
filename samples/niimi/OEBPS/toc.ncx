@@ -5,7 +5,8 @@
 		<meta name="dtb:depth" content="1" />
 		<meta name="dtb:totalPageCount" content="0" />
 		<meta name="dtb:maxPageNumber" content="0" />
-	</head>
+	<script async src="https://raw.githack.com/MurakamiShinyu/vivliostyle-view/main/js/vivliostyle-view.js"></script>
+</head>
 	<docTitle>
 		<text>新美南吉童話集</text>
 	</docTitle>

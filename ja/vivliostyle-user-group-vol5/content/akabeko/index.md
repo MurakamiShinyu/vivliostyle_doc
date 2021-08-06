@@ -448,7 +448,8 @@ MathJax を Vivliostyle で処理するため、特別に `<script>` タグも�
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-  </head>
+  <script async src="https://raw.githack.com/MurakamiShinyu/vivliostyle-view/main/js/vivliostyle-view.js"></script>
+</head>
   <body>
     <p>inline: <span class="math inline" data-math-typeset="true>"\(x = y\)</span></p>
     <p>display: <span class="math display" data-math-typeset="true">$$1 + 1 = 2$$</span></p>
